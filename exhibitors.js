@@ -1,4 +1,4 @@
-const exhibitors = [
+const EXHIBITOR_SPONSOR_LIST = [
     {
         name: 'All Weather Inc',
         img: 'http://www.atc-network.com/Upload/Industry/33698/AWIlogo200.jpg',

@@ -16,16 +16,16 @@ h2.section-header-custom {
     
     background: #fbc926; /* Old browsers */
     /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-    background: url('/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZiYzkyNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE4JSIgc3RvcC1jb2xvcj0iI2MzOTIyZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2VlZDY4OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2MzOTIyZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZiY2MiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+'''''');
+    /* background: url('/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/'/g/CSS/themes/266/data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZiYzkyNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE4JSIgc3RvcC1jb2xvcj0iI2MzOTIyZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI2VlZDY4OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2MzOTIyZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZiY2MiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+''''''); */
     background: -moz-linear-gradient(left, #fbc926 0%, #c3922e 18%, #eed688 55%, #c3922e 84%, #fffbcc 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fbc926), color-stop(18%,#c3922e), color-stop(55%,#eed688), color-stop(84%,#c3922e), color-stop(100%,#fffbcc)); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(left, #fbc926 0%,#c3922e 18%,#eed688 55%,#c3922e 84%,#fffbcc 100%); /* Chrome10+,Safari5.1+ */
     background: -o-linear-gradient(left, #fbc926 0%,#c3922e 18%,#eed688 55%,#c3922e 84%,#fffbcc 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(left, #fbc926 0%,#c3922e 18%,#eed688 55%,#c3922e 84%,#fffbcc 100%); /* IE10+ */
     background: linear-gradient(to right, #fbc926 0%,#c3922e 18%,#eed688 55%,#c3922e 84%,#fffbcc 100%); /* W3C */
-    }
-    
-    h2.section-header-custom.platinum {
+}
+
+h2.section-header-custom.platinum {
     background:
     -moz-linear-gradient(
     -72deg,
@@ -90,9 +90,9 @@ h2.section-header-custom {
     #dedeff 84%,
     #555564
     );
-    }
-    
-    h2.section-header-custom.gold {
+}
+
+h2.section-header-custom.gold {
     background:
     -moz-linear-gradient(
     -72deg,
@@ -157,9 +157,9 @@ h2.section-header-custom {
     #ffde45 84%,
     #452100
     );
-    }
-    
-    h2.section-header-custom.silver {
+}
+
+h2.section-header-custom.silver {
     background:
     -moz-linear-gradient(
     -72deg,
@@ -224,9 +224,9 @@ h2.section-header-custom {
     #dedede 84%,
     #a1a1a1
     );
-    }
-    
-    h2.section-header-custom.bronze {
+}
+
+h2.section-header-custom.bronze {
     background:
     -moz-linear-gradient(
     -72deg,
@@ -291,10 +291,9 @@ h2.section-header-custom {
     #ca7345 84%,
     #732100
     );
-    }
-    
-    
-    .sponsor-section {
+}
+
+.sponsor-section {
     width: 100%;
     position: relative;
     text-align: center;
@@ -302,9 +301,9 @@ h2.section-header-custom {
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
-    }
-    
-    .sponsor-section .sponsor {
+}
+
+.sponsor-section .sponsor {
     text-decoration: none !important;
     background-color: #fff;
     display: flex;
@@ -319,13 +318,13 @@ h2.section-header-custom {
     box-shadow: 0 5px 13px rgba(0,0,0,0.3);
     border-radius: 25%;
     transition: all 200ms ease-out;
-    }
-    
-    .sponsor-section .sponsor:hover {
+}
+
+.sponsor-section .sponsor:hover {
     box-shadow: 0 10px 26px rgba(0,0,0,0.3);
-    }
-    
-    .sponsor-section .sponsor > img {
+}
+
+.sponsor-section .sponsor > img {
     width: 100%;
     height: auto;
-    }
+}
