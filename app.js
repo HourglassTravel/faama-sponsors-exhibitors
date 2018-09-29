@@ -1,6 +1,8 @@
-<div id="sponsors-list-view"></div>
-<script type="text/javascript">
+window.EXHIBITOR_SPONSORS_DATA = window.EXHIBITOR_SPONSORS_DATA || {};
+  window.EXHIBITOR_SPONSORS_DATA.EXHIBITORS_LIST = window.EXHIBITOR_SPONSORS_DATA.EXHIBITORS_LIST || [];
+  window.EXHIBITOR_SPONSORS_DATA.EXHIBITORS_LIST = window.EXHIBITOR_SPONSORS_DATA.EXHIBITORS_LIST.concat(exhibitors);
   window.DATA_VIEW_PORT_ID = 'sponsors-list-view';
+  
   (function DOCUMENT_READY(callback) {
     if (window && !window.jQuery) {
       callback(window.EXHIBITOR_SPONSORS_DATA, window.DATA_VIEW_PORT_ID);
@@ -87,5 +89,3 @@
       });
     }
   });
-</script>
-
