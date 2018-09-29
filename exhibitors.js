@@ -139,7 +139,7 @@ const exhibitors = [
     },
     {
         name: 'Hourglass Travel',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/412ec71f52e8403e906fdab141d270f1.png',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/eff0873a433648ef8a1cd24e207787e7.png',
         site: 'http://hourglasstravel.com/',
         level: 'bronze'
     },
