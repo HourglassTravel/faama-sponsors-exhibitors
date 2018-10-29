@@ -276,6 +276,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'exhibitor'
     },
     {
+        name: 'Serco',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/6dea00bfbe1d48a89e5e7ea93a29d7dd.png',
+        site: 'https://www.serco-na.com/',
+        level: 'bronze'
+    },
+    {
         name: 'skyone',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/fccd18c135684559aef363f57a542b8f.gif',
         site: 'https://www.skyone.org/',
