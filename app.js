@@ -39,6 +39,11 @@ function sponsors() {
     section.content.forEach(company => {
       var a = document.createElement('a');
       a.setAttribute('href', company.site);
+      a.onclick = function(e) {
+        e.preventDefault();
+        var win = window.open(company.site, '_blank');
+        win.focus();
+      }
       a.classList.add('sponsor');
       var img = document.createElement('img');
       img.setAttribute('src', company.img);
