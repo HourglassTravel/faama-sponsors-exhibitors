@@ -15,7 +15,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'ATAC',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/e7940caa1b66472485c0b1a1f63cb91b.jpg',
         site: 'http://www.atacusa.com/',
-        level: 'bronze'
+        level: 'silver'
     },
     {
         name: 'ATO FAA COMM',
@@ -126,7 +126,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'platinum'
     },
     {
-        name: 'General Dynamics Information Technology',
+        name: 'General Dynamics',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/bb5603d162fe4580bc811110ad308fc4.jpg',
         site: 'http://www.gdit.com/',
         level: 'silver'
@@ -267,7 +267,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'SAIC',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/992e1558ea884e8b986f29de4db4d84d.jpg',
         site: 'http://www.saic.com/',
-        level: 'silver'
+        level: 'gold'
     },
     {
         name: 'sennheiser',
@@ -300,7 +300,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'exhibitor'
     },
     {
-        name: 'Star Wright USA',
+        name: 'Starr Wright USA',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/0f9b5c9c59d94ffd85363fa75faa5056.png',
         site: 'https://secure.fepla.com/fermapliapp.aspx?1=a50b95d0-5b7e-4f07-b4a6-3d08257bef84',
         level: 'platinum'
@@ -339,7 +339,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'WAEPA',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/297b17b4737d4b24ba23bfe52b729472.png',
         site: 'https://www.waepa.org/?utm_source=faama&utm_medium=sponsor&utm_campaign=faama%20expo',
-        level: 'exhibitor'
+        level: 'silver'
     },
     {
         name: 'WEYTEC',
