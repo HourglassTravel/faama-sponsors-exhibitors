@@ -31,7 +31,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Eizo',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/71d3c0efb5ca404585964b3c026d6493.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/e58f7095a29b4229a24f50520990a7db.png',
         site: 'http://www.eizo.com/home/',
         level: 'bronze',
     },
