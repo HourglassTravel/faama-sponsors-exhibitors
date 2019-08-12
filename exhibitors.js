@@ -181,7 +181,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Livingston Federal',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2c13024715bf406ab059cdd95d6a3fd4.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/757fff2cc80b4031920213489522fc43.jpg',
         site: 'http://www.livingstonfederal.com/',
         level: 'silver'
     },
