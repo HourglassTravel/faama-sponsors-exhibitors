@@ -211,8 +211,8 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Snow Federal Retirement Seminars & ChFEBC',
-        img: 'https://placeholdit.imgix.net/~text?txtsize=33&txt=Snow%20Federal&w=200&h=200&bg=FFF',
-        site: 'http://www.snowseminars.com/',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/8f8b82efd71a418f81d4cd00c8dfd102.png',
+        site: 'http://www.fedseminars.com/',
         level: 'exhibitor'
     },
     {
@@ -222,34 +222,10 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'platinum'
     },
     {
-        name: 'Sunhillo',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/1315b9d547854327b01174a7485381b3.jpg',
-        site: 'http://www.sunhillo.com/',
-        level: 'bronze'
-    },
-    {
-        name: 'STR Speechtech LTD',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/ca3b34a0956e4e22bf5e165e4d358eef.jpg',
-        site: 'http://www.speechtech.com/',
-        level: 'exhibitor'
-    },
-    {
         name: 'systems atlanta',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2ea75770191443c3b34f7e38f7c69524.png',
         site: 'http://www.sysatl.com/',
         level: 'bronze'
-    },
-    {
-        name: 'Thales',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/9ad6aecf8ad74d0e94b3c9792eae5059.gif',
-        site: 'https://www.thalesgroup.com/en',
-        level: 'exhibitor'
-    },
-    {
-        name: 'UFA',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/1b18aa1861da4e26a1d2f967e6a0cbe8.png',
-        site: 'http://ufainc.com',
-        level: 'exhibitor'
     },
     {
         name: 'WAEPA',
