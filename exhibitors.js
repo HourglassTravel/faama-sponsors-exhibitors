@@ -7,7 +7,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'ATAC',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/e7940caa1b66472485c0b1a1f63cb91b.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2803079bc44a4e61ac220d16d671c9a8.png',
         site: 'http://www.atacusa.com/',
         level: 'silver'
     },
@@ -97,7 +97,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Huddle',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/0e53f935d6b244caa18d213118299f68.png',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/23ad98df8531454688732df289baae8e.png',
         site: 'https://www.huddle.com/about/',
         level: 'bronze'
     },
