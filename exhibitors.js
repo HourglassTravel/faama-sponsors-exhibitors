@@ -211,7 +211,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Snow Federal Retirement Seminars & ChFEBC',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/8f8b82efd71a418f81d4cd00c8dfd102.png',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/08d66f56d2ad4bd8bacba5f51adc1f8a.jpg',
         site: 'http://www.fedseminars.com/',
         level: 'exhibitor'
     },
