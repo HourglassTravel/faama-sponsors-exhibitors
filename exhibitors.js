@@ -108,7 +108,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'exhibitor'
     },
     {
-        name: 'Inifina',
+        name: 'Infina',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/6038e007908b47618dce40010f7e4455.png',
         site: 'http://www.infina.net/',
         level: 'silver'
@@ -135,12 +135,6 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'Management Concepts',
         img: 'http://contentz.mkt9052.com/lp/15784/35601/images/mc-logo-top.png',
         site: 'https://www.managementconcepts.com/',
-        level: 'bronze'
-    },
-    {
-        name: 'Memotec Inc',
-        img: 'http://memotec.com/wp-content/themes/memotec/images/logo.png',
-        site: 'http://memotec.com/',
         level: 'bronze'
     },
     {
@@ -220,6 +214,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/0f9b5c9c59d94ffd85363fa75faa5056.png',
         site: 'https://secure.fepla.com/fermapliapp.aspx?1=a50b95d0-5b7e-4f07-b4a6-3d08257bef84',
         level: 'platinum'
+    },
+    {
+        name: 'Sunhillo Corporation',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/3e80aff9b46a40babcee94ce9c100e38.png',
+        site: 'https://www.sunhillo.com',
+        level: 'exhibitor'
     },
     {
         name: 'systems atlanta',
