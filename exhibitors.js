@@ -9,7 +9,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'ARIA',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/4d6ac6272e2d4439aa4a87949c4337be.png',
         site: 'http://www.faama.org',
-        level: 'silver'
+        level: 'exhibitor'
     },
     {
         name: 'ATAC',
