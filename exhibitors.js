@@ -6,6 +6,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'bronze'
     },
     {
+        name: 'ARIA',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/4d6ac6272e2d4439aa4a87949c4337be.png',
+        site: 'http://www.faama.org',
+        level: 'silver'
+    },
+    {
         name: 'ATAC',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2803079bc44a4e61ac220d16d671c9a8.png',
         site: 'http://www.atac.com',
