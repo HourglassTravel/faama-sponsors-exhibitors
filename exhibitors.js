@@ -8,7 +8,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     {
         name: 'ATAC',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2803079bc44a4e61ac220d16d671c9a8.png',
-        site: 'http://www.atacusa.com/',
+        site: 'http://www.atac.com',
         level: 'silver'
     },
     {
