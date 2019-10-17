@@ -201,7 +201,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'skyone',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/fccd18c135684559aef363f57a542b8f.gif',
         site: 'https://www.skyone.org/',
-        level: 'exhibitor'
+        level: 'bronze'
     },
     {
         name: 'skysoft',
