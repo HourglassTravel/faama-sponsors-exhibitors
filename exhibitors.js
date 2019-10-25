@@ -25,7 +25,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Blue Cross Blue Shield FEP',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/cc4a1ee937e344c19e63cd3e155cf3ef.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/2398f85bc65c49a391bf31815cbf0f11.png',
         site: 'http://www.bcbs.com/',
         level: 'gold'
     },
