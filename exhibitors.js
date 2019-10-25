@@ -67,7 +67,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'FEDS',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/1fa501110efb48f486a6c19ddc38de0f.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/fcb6a15d689d4b36b4e78ac0402890e9.png',
         site: 'http://www.fedsprotection.com/',
         level: 'exhibitor'
     },
