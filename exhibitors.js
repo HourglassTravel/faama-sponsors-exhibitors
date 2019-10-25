@@ -3,7 +3,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'American Benefits Exchange',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/7368147004b546f6b0941202f8c862f6.jpg',
         site: 'http://thinkabx.com/',
-        level: 'bronze'
+        level: 'exhibitor'
     },
     {
         name: 'ARIA',
