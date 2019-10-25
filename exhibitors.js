@@ -35,6 +35,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         site: 'http://www.conceptseating.com/',
         level: 'exhibitor'
     },
+     {
+        name: 'Deloitte',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/dfcd93f580f34eb5b24be629fcb553f4.png',
+        site: 'https://www2.deloitte.com/us/en.html',
+        level: 'silver',
+    },
     {
         name: 'Eizo',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/e58f7095a29b4229a24f50520990a7db.png',
