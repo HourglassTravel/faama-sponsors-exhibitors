@@ -61,7 +61,7 @@ const EXHIBITOR_SPONSOR_LIST = [
     },
     {
         name: 'Federal Benifits Advisory Group',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/fb96da7d83e64fc7b76227f15b6fc22c.jpg',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/a8ec8d26bc7a46e7af25196334beac41.jpg',
         site: 'https://federalbenefitsadvice.com/',
         level: 'Silver'
     },
