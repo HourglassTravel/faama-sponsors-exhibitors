@@ -30,6 +30,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'gold'
     },
     {
+        name: 'Career Guard',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/955f7965966f41bfac096eb325a8951d.png',
+        site: 'https://www.career-guard.com/',
+        level: 'bronze'
+    },
+    {
         name: 'Concept Seating',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/d4c7679139f849a1a7b9a33401022d1d.jpg',
         site: 'http://www.conceptseating.com/',
