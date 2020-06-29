@@ -41,16 +41,16 @@ const EXHIBITOR_SPONSOR_LIST = [
         site: 'http://www.conceptseating.com/',
         level: 'exhibitor'
     },
-     {
-        name: 'Deloitte',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/dfcd93f580f34eb5b24be629fcb553f4.png',
-        site: 'https://www2.deloitte.com/us/en.html',
-        level: 'silver',
-    },
     {
         name: 'Eizo',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/e58f7095a29b4229a24f50520990a7db.png',
         site: 'http://www.eizo.com/home/',
+        level: 'bronze',
+    },
+    {
+        name: 'Dynamic Science Inc.',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/c237166eb470467499480523e5f66d98.jpg',
+        site: 'https://www.exodyne.com/dsi_home.php',
         level: 'bronze',
     },
     {
@@ -75,13 +75,13 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'Federal Benifits Advisory Group',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/a8ec8d26bc7a46e7af25196334beac41.jpg',
         site: 'https://federalbenefitsadvice.com/',
-        level: 'silver'
+        level: 'exhibitor'
     },
     {
         name: 'FEDS',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/fcb6a15d689d4b36b4e78ac0402890e9.png',
         site: 'http://www.fedsprotection.com/',
-        level: 'exhibitor'
+        level: 'bronze'
     },
     {
         name: 'Frequentis',
@@ -117,7 +117,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'Huddle',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/23ad98df8531454688732df289baae8e.png',
         site: 'https://www.huddle.com/about/',
-        level: 'bronze'
+        level: 'exhibitor'
     },
     {
         name: 'IHSEusa, LLC',
@@ -147,7 +147,7 @@ const EXHIBITOR_SPONSOR_LIST = [
         name: 'Long Term Care Partners',
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/11f94a623c9e4ed992a58e0c8fa951e1.jpg',
         site: 'http://www.ltcpartners.com/',
-        level: 'bronze'
+        level: 'silver'
     },
     {
         name: 'Management Concepts',
@@ -168,9 +168,9 @@ const EXHIBITOR_SPONSOR_LIST = [
         level: 'bronze'
     },
     {
-        name: 'Plantronics',
-        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/595001422c344c4b98a2ba8430c20c87.png',
-        site: 'http://www.plantronics.com/us/solutions/public-sector/', 
+        name: 'Polycom',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/911560066b3a407c8b4049a2df79745b.jpg',
+        site: 'https://www.poly.com/us/en', 
         level: 'exhibitor'
     },
     {
@@ -196,6 +196,12 @@ const EXHIBITOR_SPONSOR_LIST = [
         img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/992e1558ea884e8b986f29de4db4d84d.jpg',
         site: 'http://www.saic.com/',
         level: 'gold'
+    },
+    {
+        name: 'Scioteq',
+        img: 'https://custom.cvent.com/121362D6C5404F6CA3234CDF3C655C82/pix/a7d4c441198548a3a142bc4d7abb6cd5.png',
+        site: 'https://www.scioteq.com/en',
+        level: 'exhibitor'
     },
     {
         name: 'sennheiser',
